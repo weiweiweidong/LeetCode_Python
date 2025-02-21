@@ -10,3 +10,8 @@
 str.isalnum() 用于检查字符串是否只包含子母和数字
 
 char.lower() 用于把字符转化为小写字母
+
+## LC_003
+
+defaultdict(int) 声明一个哈希表
+

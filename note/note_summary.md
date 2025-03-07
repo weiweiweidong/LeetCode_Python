@@ -14,4 +14,3 @@ char.lower() 用于把字符转化为小写字母
 ## LC_003
 
 defaultdict(int) 声明一个哈希表
-
